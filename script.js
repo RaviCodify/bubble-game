@@ -6,7 +6,7 @@ const hitbox = document.querySelector(".hitbox");
 
 let score = 0;
 let time = 60;
-let totalBubbles = 72;
+let totalBubbles = 60;
 
 function generateBubbles() {
   pbtm.innerHTML = "";
