@@ -28,7 +28,7 @@ html, body{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10%;
+    gap: 7%;
     width: 100%;
     height: 15%;
     background-color: rgb(91, 235, 115);
@@ -36,7 +36,7 @@ html, body{
 .elem{
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 7px;
 }
 .box{
     border-radius: 50%;
